@@ -1,4 +1,4 @@
-# Hi there, I'm Arrowx Goutam [Arrowx Goutam][youtube] 👋 
+# Hi there, I'm Arrowx Goutam [Arrowx Goutam][telegram] 👋 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
@@ -109,6 +109,7 @@
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
+[telegram]: https://t.me/arrowxgoutam
 [twitter]: https://twitter.com/arrowxgoutam
 [youtube]: https://youtube.com/@arrowxgoutam
 [instagram]: https://instagram.com/arrowxgoutam
