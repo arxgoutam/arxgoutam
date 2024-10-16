@@ -1,4 +1,4 @@
-# Hi there, I'm [Arrowx Goutam][telegram] 👋 
+# Hi there, I'm [Arx Goutam][telegram] 👋 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 
